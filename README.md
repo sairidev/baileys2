@@ -6,15 +6,7 @@
 
 ##
 
-<div align="center">
 
-![Version](https://img.shields.io/npm/v/@sairidev/baileys2?style=for-the-badge&color=0d1117&labelColor=58a6ff&label=VERSION)
-![Downloads](https://img.shields.io/npm/dw/@sairidev/baileys2?style=for-the-badge&color=0d1117&labelColor=3fb950&label=DOWNLOADS)
-![Stars](https://img.shields.io/github/stars/SAIRIDEV/baileys2?style=for-the-badge&color=0d1117&labelColor=f0883e&label=STARS)
-![License](https://img.shields.io/github/license/SAIRIDEV/baileys2?style=for-the-badge&color=0d1117&labelColor=da3633&label=LICENSE)
-![Size](https://img.shields.io/github/languages/code-size/SAIRIDEV/baileys2?style=for-the-badge&color=0d1117&labelColor=a371f7&label=SIZE)
-
-</div>
 
 ##
 
